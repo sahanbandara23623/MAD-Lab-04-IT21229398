@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MADLab04</string>
+    <string name="ReEnterPassword">enterpassword</string>
 </resources>
